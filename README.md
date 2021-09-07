@@ -11,6 +11,9 @@ Don't forget [ganache-cli](https://www.npmjs.com/package/ganache-cli)
 
 ### Deployments Info
 
+#### 2021-09-07 Avalanche (Marnotaur Governance v1)
+https://cchain.explorer.avax.network/address/0x19b99162ADAAB85134E781Ac0048C275C31b205a/contracts
+
 #### 2021-08-23 Binance Smart Chain
 https://bscscan.com/address/0x19b99162ADAAB85134E781Ac0048C275C31b205a#code
 

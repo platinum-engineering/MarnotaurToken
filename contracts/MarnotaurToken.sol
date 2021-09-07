@@ -9,7 +9,7 @@ contract Marnotaur is ERC20 {
     uint256 constant public MAX_SUPPLY = 150_000_000e18;
 
     constructor(address initialKeeper)
-    ERC20("Marnotaur", "TAUR")
+    ERC20("Marnotaur Governance v1", "TAUR")
     { 
         _mint(initialKeeper, MAX_SUPPLY);
     }
